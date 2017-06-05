@@ -5,7 +5,37 @@
 > Este trabajo está bajo la licencia internacional Creative Commons Attribution-ShareAlike 4.0. Para ver una copia de esta licencia, visita el siguiente enlace https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Translation
-This tutorial has been translated from English into Spanish by a wonderful group of volunteers. Special thanks goes to Victoria Martinez de la Cruz, Kevin Morales, Joshua Aranda, Silvia Frias, Leticia, Andrea Gonzalez, Adrian Manjarres, Rodrigo Caicedo, Maria Chavez, Marcelo Nicolas Manso, Rosa Durante, Moises, Israel Martinez Vargas, JuanCarlos_, N0890Dy, Ivan Yivoff, Khaterine Castellano, Erick Navarro, cyncyncyn, ZeroSoul13, Erick Aguayo, Ernesto Rico-Schmidt, Miguel Lozano, osueboy, dynarro and Geraldina Garcia Alvarez.
+This tutorial has been translated from English into Spanish by a wonderful group of volunteers. 
+
+Special thanks goes to:
+
+* Adrian Manjarres
+* Andrea Gonzalez
+* Ayrton Araujo
+* cyncyncyn
+* dynarro
+* Erick Aguayo
+* Erick Navarro
+* Ernesto Rico-Schmidt
+* Geraldina Garcia Alvarez
+* Israel Martinez Vargas
+* Ivan Yivoff
+* Joshua Aranda
+* JuanCarlos_
+* Kevin Morales
+* Khaterine Castellano
+* Leticia
+* Marcelo Nicolas Manso
+* Maria Chavez
+* Miguel Lozano
+* Moises
+* N0890Dy
+* osueboy
+* Rodrigo Caicedo
+* Rosa Durante
+* Silvia Frias
+* ZeroSoul13
+* Victoria Martinez de la Cruz
 
 ## Introducción
 
